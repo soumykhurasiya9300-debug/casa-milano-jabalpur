@@ -1,0 +1,7 @@
+{
+  "name": "Casa Milano Jabalpur | Gaming Café & Social Lounge",
+  "description": "Premier gaming café and social-entertainment venue in Jabalpur featuring racing simulator, snooker, PS5 lounge, arcade, foosball, and café. Not Just A Place. Your Space.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
